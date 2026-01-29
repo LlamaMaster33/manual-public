@@ -1,10 +1,30 @@
 # Arc Foxtrot Conditioning Program Manual
 
-## Version 1.0.1 - Improved for Dagger Integration
+## Version 1.0.2 - Enhanced for Operational Excellence
 
 This repository contains the Arc Foxtrot Conditioning Program Manual, a comprehensive training guide for practitioners of historical European martial arts, with a focus on rapier and dagger combat.
 
-## What's New in Version 1.0.1
+## What's New in Version 1.0.2
+
+- **Lifestyle Factors and Operational Security Section**: New comprehensive section covering:
+  - Sleep, nutrition, and stress management for optimal performance
+  - Operational security (OPSEC) best practices for real-life activities
+  - Situational awareness and personal safety guidelines
+  - Conflict avoidance and de-escalation techniques
+  - Mental conditioning and tactical mindset development
+- **Military Manual Standards Alignment**: Enhanced formatting following U.S./NATO military training manual conventions:
+  - Distribution statement and classification markings
+  - Structured purpose and scope statements
+  - Professional document supersession tracking
+- **Enhanced Readability**: Improved organization and clarity across all sections for wider audience accessibility
+- **Comprehensive Appendices**: New reference materials including:
+  - Quick Reference Guide for essential safety checks and procedures
+  - Glossary of Terms for technical vocabulary
+  - Training Log Template for progress tracking
+- **Refined Conclusion**: Expanded with key principles, continuous improvement guidance, and community engagement
+- **Grammar and Clarity Improvements**: Comprehensive editing pass for professional consistency
+
+## Previous Updates (Version 1.0.1)
 
 - **Full LaTeX conversion** for professional formatting and web readiness
 - **New Dagger Control section** with comprehensive drills for:
@@ -45,8 +65,11 @@ This will generate `arc_foxtrot_manual.pdf`.
 3. **Equipment Requirements** - Essential and recommended training equipment
 4. **Blade Work & Combat Drills** - Rapier fundamentals, dagger control routines, and weapon retention
 5. **Conditioning Exercises** - Weapon-specific and general conditioning
-6. **Progression Guidelines** - Detailed skill levels, benchmarks, and advancement strategies
-7. **Training Schedules** - Recommended schedules for all skill levels
+6. **Lifestyle Factors and Operational Security** - Performance optimization, OPSEC practices, situational awareness, and tactical mindset
+7. **Progression Guidelines** - Detailed skill levels, benchmarks, and advancement strategies
+8. **Training Schedules** - Recommended schedules for all skill levels
+9. **Conclusion** - Key principles and continuous improvement guidance
+10. **Appendices** - Quick reference guide, glossary, and training log template
 
 ## Features
 
