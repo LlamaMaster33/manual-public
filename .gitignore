@@ -1,0 +1,22 @@
+# LaTeX compilation artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.vrb
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
