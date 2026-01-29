@@ -1,10 +1,60 @@
 # Arc Foxtrot Conditioning Program Manual
 
-## Version 1.0.4 - Professional Military-Grade Combatives and Tactical Training
+## Version 1.0.5 - Enhanced Professional Military-Grade Training Standards
 
-This repository contains the Arc Foxtrot Conditioning Program Manual, a comprehensive training guide for practitioners of historical European martial arts with rapier and dagger combat, now enhanced with professional military combatives principles, terrain exploitation tactics, and advanced team-based operations.
+This repository contains the Arc Foxtrot Conditioning Program Manual, a comprehensive training guide for practitioners of historical European martial arts with rapier and dagger combat, now featuring significantly expanded professional military-grade training content, terrain-specific operations, tactical decision-making frameworks, and tiered combat readiness standards.
 
-## What's New in Version 1.0.4
+## What's New in Version 1.0.5
+
+- **Terrain-Specific Stealth Operations**: Comprehensive expansion of stealth movement doctrine:
+  - Urban Stealth Operations: Building entry, vertical movement (stairwells, doorways, windows), urban sound discipline, room clearing fundamentals
+  - Wilderness Stealth Operations: Natural concealment exploitation, forest floor navigation, water crossings, night movement, wildlife awareness, weather exploitation
+  - Rugged Terrain Operations: Elevation tactics (uphill/downhill/traverse), rocky terrain navigation, talus and scree fields, high ground tactical advantages
+  - Integration of all terrain types with foundational foxlike stealth principles
+
+- **Tactical Decision-Making Under Stress**: Complete new section on combat decision-making:
+  - OODA Loop combat application with specific drills for each phase (Observe, Orient, Decide, Act)
+  - METT-TC tactical analysis framework (Mission, Enemy, Terrain, Troops, Time, Civilians) adapted for combatives
+  - Physiological stress responses and stress inoculation training methods
+  - Time-critical decision exercises (3-second decisions, Recognition-Primed Decision training, multiple opponent prioritization)
+  - Integration of decision-making with physical combat techniques
+
+- **Tiered Combat Readiness Benchmarks**: Five-tier military-grade qualification system:
+  - Tier 1: Basic Combative Capability (0-6 months) - Fundamental skills under supervised conditions
+  - Tier 2: Intermediate Proficiency (6-12 months) - Reliable technique, beginning tactical awareness
+  - Tier 3: Advanced Capability (12-24 months) - Sophisticated tactics, stress-tested performance
+  - Tier 4: Expert Proficiency (24-48 months) - Technical mastery, extreme stress performance
+  - Tier 5: Master Capability (48+ months) - Complete system mastery, instructor and developer level
+  - Each tier includes specific technical, physical, tactical, and stress performance requirements
+  - Structured qualification testing protocols with failure recovery guidance
+
+- **Realistic Operational Scenarios**: Seven comprehensive scenario types for force-on-force training:
+  - Ambush Response, Multiple Opponent Management, Confined Space Engagement
+  - Dynamic Entry and Room Clearing, Weapon Transition Under Duress
+  - Extended Engagement with Fatigue, Protective Escort missions
+  - Each scenario includes objectives, execution protocols, variations, and after-action review guidance
+  - MCMAP and Modern Army Combatives-inspired scenario design
+
+- **Enhanced Weapon Training Integration**: Military knife combat principles applied to historical dagger:
+  - Combat knife fundamentals (simplicity under stress, aggressive forward pressure, continuous motion)
+  - Target zone analysis for training awareness (immediate incapacitation, motor function, psychological targets)
+  - Tactical employment principles (weapon as force multiplier, continuous attack philosophy, off-hand integration)
+  - Close-quarters grappling with dagger (retention in clinch, short-range techniques, creating space)
+  - Integration of historical dagger techniques with modern military knife combat doctrine
+
+- **Role-Based Team Training**: Complete organizational framework for team operations:
+  - Individual Operator Foundation requirements before assuming team roles
+  - Five defined roles: Team Leader, Point Man, Slack Man, Rifleman, Rear Security
+  - Detailed responsibilities, training focus, and position requirements for each role
+  - Unit-level coordination for multi-team operations
+  - Role rotation protocols and progression timelines
+  - Role assessment and assignment criteria based on capabilities
+
+- **Updated Professional Format**: All sections refined for military manual standards with improved cross-referencing, comprehensive drills, and integrated training progressions
+
+- **Updated Version Numbers**: All references updated from 1.0.4 to 1.0.5 throughout document
+
+## Previous Updates (Version 1.0.4)
 
 - **Combat Ranges and Transitions Section**: Professional military combatives integration inspired by FM 3-25.150, Modern Army Combatives Level 1 Manual, and MCMAP (MCRP 3-02B):
   - Four combat ranges defined: Long Range (weapon range), Medium Range (close weapon range), Close Range (clinch/grappling), and Ground Range (last resort)
@@ -131,17 +181,18 @@ This will generate `arc_foxtrot_manual.pdf`.
 1. **Introduction** - Program overview, core philosophy, and training approach
 2. **Safety Notes** - Comprehensive safety guidelines including dagger-specific protocols
 3. **Equipment Requirements** - Essential and recommended training equipment
-4. **Blade Work & Combat Drills** - Rapier fundamentals, dagger control routines, weapon retention, and stealth movement
-5. **Combat Ranges and Transitions** - Military combatives ranges, transitions, force escalation (NEW in 1.0.4)
-6. **Historical Close-Combat Techniques** - Gross motor strikes, nerve targeting, pressure points from proven systems like Defendu (NEW in 1.0.4)
-7. **Terrain Exploitation and Unit Tactics** - Terrain analysis, individual movement, small unit tactics (NEW in 1.0.4)
-8. **Team-Based Stealth Operations** - Small-unit stealth formations, team actions, coordinated tactics (NEW in 1.0.4)
-9. **Conditioning Exercises** - Weapon-specific and general conditioning with modern methodologies
-10. **Lifestyle Factors and Operational Security** - Performance optimization, OPSEC practices, situational awareness
-11. **Progression Guidelines** - Detailed skill levels, benchmarks, and advancement strategies
-12. **Training Schedules** - Recommended schedules for all skill levels
-13. **Conclusion** - Key principles and continuous improvement guidance
-14. **Appendices** - Quick reference guide, glossary, and training log template
+4. **Blade Work & Combat Drills** - Rapier fundamentals, dagger control routines, military knife combat principles, weapon retention, and stealth movement
+5. **Combat Ranges and Transitions** - Military combatives ranges, transitions, force escalation, realistic operational scenarios (EXPANDED in 1.0.5)
+6. **Tactical Decision-Making Under Stress** - OODA loop, METT-TC analysis, stress inoculation training, time-critical decisions (NEW in 1.0.5)
+7. **Historical Close-Combat Techniques** - Gross motor strikes, nerve targeting, pressure points from proven systems like Defendu (from 1.0.4)
+8. **Terrain Exploitation and Unit Tactics** - Terrain analysis, individual movement, small unit tactics (from 1.0.4)
+9. **Team-Based Stealth Operations** - Small-unit stealth formations, team actions, coordinated tactics, role-based training (EXPANDED in 1.0.5)
+10. **Conditioning Exercises** - Weapon-specific and general conditioning with modern methodologies
+11. **Lifestyle Factors and Operational Security** - Performance optimization, OPSEC practices, situational awareness
+12. **Progression Guidelines** - Detailed skill levels, five-tier combat readiness benchmarks, advancement strategies (EXPANDED in 1.0.5)
+13. **Training Schedules** - Recommended schedules for all skill levels
+14. **Conclusion** - Key principles and continuous improvement guidance
+15. **Appendices** - Quick reference guide, glossary, and training log template
 
 ## Features
 
