@@ -1,10 +1,45 @@
 # Arc Foxtrot Conditioning Program Manual
 
-## Version 1.0.3 - Modernized for Tactical Adaptability and Stealth Excellence
+## Version 1.0.4 - Professional Military-Grade Combatives and Tactical Training
 
-This repository contains the Arc Foxtrot Conditioning Program Manual, a comprehensive training guide for practitioners of historical European martial arts, with a focus on rapier and dagger combat, now enhanced with foxlike principles of stealth, agility, and adaptability.
+This repository contains the Arc Foxtrot Conditioning Program Manual, a comprehensive training guide for practitioners of historical European martial arts with rapier and dagger combat, now enhanced with professional military combatives principles, terrain exploitation tactics, and advanced team-based operations.
 
-## What's New in Version 1.0.3
+## What's New in Version 1.0.4
+
+- **Combat Ranges and Transitions Section**: Professional military combatives integration inspired by FM 3-25.150, Modern Army Combatives Level 1 Manual, and MCMAP (MCRP 3-02B):
+  - Four combat ranges defined: Long Range (weapon range), Medium Range (close weapon range), Close Range (clinch/grappling), and Ground Range (last resort)
+  - Comprehensive range transition drills for seamless tactical flow
+  - Escalation of force principles aligned with professional military standards
+  - Integrated weapon and empty-hand techniques for complete combative readiness
+  
+- **Historical Close-Combat Techniques Section**: Drawing from proven historical systems like Defendu (W.E. Fairbairn):
+  - Gross motor strike techniques: Edge of hand, hammer fist, elbow strikes, knee strikes, and palm heel strikes
+  - Practical nerve targeting for combat effectiveness (common peroneal, radial nerve, brachial plexus, vagus nerve, solar plexus)
+  - Pressure point control techniques for lower-level force applications
+  - Principles emphasizing simplicity and effectiveness under stress
+  - Integration with weapon systems for seamless combative flow
+  
+- **Terrain Exploitation and Unit Tactics Section**: Tactical principles from ATP 90-10-1 and Ranger/Infantry training:
+  - Terrain analysis: open, close, transitional, and vertical terrain categories
+  - Tactical terrain features: cover, concealment, obstacles, avenues of approach, choke points
+  - Individual movement techniques: high ready, tactical walk, crouch walk, low crawl
+  - Small unit tactics: buddy team and fire team movement formations
+  - Basic hand signals for silent team communication
+  - Environmental considerations for low-light, urban, and wilderness operations
+  - Terrain-neutral training principles for universal adaptability
+  
+- **Team-Based Stealth Operations Section**: Expanding foxlike qualities to team dynamics:
+  - Principles of team stealth: noise discipline, 360-degree security, coordinated movement
+  - Team formations for stealth: single file, staggered column, stealth-modified wedge
+  - Team action drills: freeze drill, danger area crossing, contact immediate action
+  - Foxlike team intelligence with distributed awareness and synchronized decision-making
+  - Team assessment exercises with observer feedback and after-action reviews
+  
+- **Enhanced Professional Format**: All sections refined for military manual standards with improved technical terminology, professional tables, and enhanced cross-referencing
+  
+- **Updated Version Numbers**: All references updated from 1.0.3 to 1.0.4 throughout document
+
+## Previous Updates (Version 1.0.3)
 
 - **Core Philosophy Integration**: Explicit integration of "Stealth like a fox, adaptability for any scenario" throughout the manual
   - New Core Philosophy section in Introduction explaining foxlike qualities
@@ -93,16 +128,20 @@ This will generate `arc_foxtrot_manual.pdf`.
 
 ## Manual Contents
 
-1. **Introduction** - Program overview and training philosophy
+1. **Introduction** - Program overview, core philosophy, and training approach
 2. **Safety Notes** - Comprehensive safety guidelines including dagger-specific protocols
 3. **Equipment Requirements** - Essential and recommended training equipment
-4. **Blade Work & Combat Drills** - Rapier fundamentals, dagger control routines, and weapon retention
-5. **Conditioning Exercises** - Weapon-specific and general conditioning
-6. **Lifestyle Factors and Operational Security** - Performance optimization, OPSEC practices, situational awareness, and tactical mindset
-7. **Progression Guidelines** - Detailed skill levels, benchmarks, and advancement strategies
-8. **Training Schedules** - Recommended schedules for all skill levels
-9. **Conclusion** - Key principles and continuous improvement guidance
-10. **Appendices** - Quick reference guide, glossary, and training log template
+4. **Blade Work & Combat Drills** - Rapier fundamentals, dagger control routines, weapon retention, and stealth movement
+5. **Combat Ranges and Transitions** - Military combatives ranges, transitions, force escalation (NEW in 1.0.4)
+6. **Historical Close-Combat Techniques** - Gross motor strikes, nerve targeting, pressure points from proven systems like Defendu (NEW in 1.0.4)
+7. **Terrain Exploitation and Unit Tactics** - Terrain analysis, individual movement, small unit tactics (NEW in 1.0.4)
+8. **Team-Based Stealth Operations** - Small-unit stealth formations, team actions, coordinated tactics (NEW in 1.0.4)
+9. **Conditioning Exercises** - Weapon-specific and general conditioning with modern methodologies
+10. **Lifestyle Factors and Operational Security** - Performance optimization, OPSEC practices, situational awareness
+11. **Progression Guidelines** - Detailed skill levels, benchmarks, and advancement strategies
+12. **Training Schedules** - Recommended schedules for all skill levels
+13. **Conclusion** - Key principles and continuous improvement guidance
+14. **Appendices** - Quick reference guide, glossary, and training log template
 
 ## Features
 
