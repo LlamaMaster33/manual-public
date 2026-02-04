@@ -1,10 +1,16 @@
 # Arc Foxtrot Conditioning Program Manual
 
-## Version 1.0.6 - Enhanced Professional Military-Grade Training Standards
+## Version 1.0.7 - Reorganized Structure with Daily Exercise Routines First
 
 This repository contains the Arc Foxtrot Conditioning Program Manual, a comprehensive training guide for practitioners of historical European martial arts with rapier and dagger combat, now featuring significantly expanded professional military-grade training content, terrain-specific operations, tactical decision-making frameworks, and tiered combat readiness standards.
 
-## What's New in Version 1.0.6
+## What's New in Version 1.0.7
+
+- **Restructured Manual Organization**: The Conditioning Exercises section has been moved to immediately follow the table of contents, making the daily exercise routines the first substantive content in the manual. This reorganization prioritizes practical training guidance and allows practitioners to quickly access the daily exercise routines they need.
+
+- **Updated Version Numbers**: All version references updated from 1.0.6 to 1.0.7 throughout the document.
+
+## Previous Updates (Version 1.0.6)
 
 - **Expanded Weapon Transition Scenarios**: Comprehensive practical examples for weapon transitions under operational conditions:
   - Rapier compromised in bind—transition to dagger with tactical response sequence
@@ -38,7 +44,7 @@ This repository contains the Arc Foxtrot Conditioning Program Manual, a comprehe
   - Individual and unit drills incorporating stealth movement, tactical decision-making, and terrain exploitation
   - Progressive training frameworks spanning beginner through expert phases
 
-- **Document Expansion**: Manual now extends to 101 pages (from 85 pages in Version 1.0.6), providing deeper coverage of:
+- **Document Expansion**: Manual now extends to 101 pages, providing deeper coverage of:
   - Practical military-grade examples for training and operational scenarios
   - Detailed sections on stealth movement, urban and terrain-based dynamics
   - Individual and unit drill progressions with assessment frameworks
@@ -219,16 +225,16 @@ This will generate `arc_foxtrot_manual.pdf`.
 
 ## Manual Contents
 
-1. **Introduction** - Program overview, core philosophy, and training approach
-2. **Safety Notes** - Comprehensive safety guidelines including dagger-specific protocols
-3. **Equipment Requirements** - Essential and recommended training equipment
-4. **Blade Work & Combat Drills** - Rapier fundamentals, dagger control routines, military knife combat principles, practical weapon transition scenarios, weapon retention, and stealth movement (EXPANDED in 1.0.6)
-5. **Combat Ranges and Transitions** - Military combatives ranges, transitions, detailed force escalation examples with practical scenarios, realistic operational contexts (EXPANDED in 1.0.6)
-6. **Tactical Decision-Making Under Stress** - OODA loop, METT-TC analysis, stress inoculation training, time-critical decisions (from 1.0.5)
-7. **Historical Close-Combat Techniques** - Gross motor strikes, nerve targeting, pressure points from proven systems like Defendu (from 1.0.4)
-8. **Terrain Exploitation and Unit Tactics** - Terrain analysis, individual movement, small unit tactics (from 1.0.4)
-9. **Team-Based Stealth Operations** - Small-unit stealth formations, team actions, coordinated tactics, role-based training, comprehensive individual and unit drill progressions (EXPANDED in 1.0.6)
-10. **Conditioning Exercises** - Weapon-specific and general conditioning with modern methodologies
+1. **Conditioning Exercises** - Daily exercise routines including weapon-specific conditioning, agility and foxlike movement development, flexibility and mobility, cardiovascular conditioning, and recovery (MOVED TO FIRST POSITION in 1.0.7)
+2. **Introduction** - Program overview, core philosophy, and training approach
+3. **Safety Notes** - Comprehensive safety guidelines including dagger-specific protocols
+4. **Equipment Requirements** - Essential and recommended training equipment
+5. **Blade Work & Combat Drills** - Rapier fundamentals, dagger control routines, military knife combat principles, practical weapon transition scenarios, weapon retention, and stealth movement (EXPANDED in 1.0.6)
+6. **Combat Ranges and Transitions** - Military combatives ranges, transitions, detailed force escalation examples with practical scenarios, realistic operational contexts (EXPANDED in 1.0.6)
+7. **Tactical Decision-Making Under Stress** - OODA loop, METT-TC analysis, stress inoculation training, time-critical decisions (from 1.0.5)
+8. **Historical Close-Combat Techniques** - Gross motor strikes, nerve targeting, pressure points from proven systems like Defendu (from 1.0.4)
+9. **Terrain Exploitation and Unit Tactics** - Terrain analysis, individual movement, small unit tactics (from 1.0.4)
+10. **Team-Based Stealth Operations** - Small-unit stealth formations, team actions, coordinated tactics, role-based training, comprehensive individual and unit drill progressions (EXPANDED in 1.0.6)
 11. **Lifestyle Factors and Operational Security** - Performance optimization, OPSEC practices, situational awareness
 12. **Progression Guidelines** - Detailed skill levels, five-tier combat readiness benchmarks, advancement strategies (from 1.0.5)
 13. **Training Schedules** - Recommended schedules for all skill levels
